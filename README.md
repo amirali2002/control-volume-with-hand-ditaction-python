@@ -24,7 +24,7 @@ pip install mediapipe<br>
 <h2 align="center">
 land marckes
 </h2>
-<img align='center' src="![Screenshot from 2023-09-11 00-40-44](https://github.com/amirali2002/control-volume-with-hand-ditaction-python/assets/85148377/d807d913-71df-4fc3-8d82-4d6b555c7b4c)">
+<img align='center' src="https://github.com/amirali2002/control-volume-with-hand-ditaction-python/assets/85148377/d807d913-71df-4fc3-8d82-4d6b555c7b4c">
 
 
 
