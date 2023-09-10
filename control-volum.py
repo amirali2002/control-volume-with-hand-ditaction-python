@@ -1,21 +1,17 @@
 import cv2 as cv
+import numpy as np
+
+cap = cv.VideoCapture(0)
+
+while(1)
+    _,frame = cap.read()
+    cv.imshow("moz",frame)
+    keyexite = cv.WaitKey(5) & 0xFF
+    if keyexite == 27:
+        break
+
+cv.destroyAllWindows()
+cap.release()
 
 
-cap =cv.VideoCapture(0)
-_,frame=cap.read()
-cv.imshow("moz",frame)
-if cv.waitKey(1) & 0xFF == ord('q'):
-    
-    cv.destroyAllWindows()
 
-'''
-import cv2 as cv
-
-while(1):
-    cap=cv.VideoCapture(0)#select your cams num for example 0 or 1 or...
-    _,frame=cap.read()#read image from cam and replase in frame
-    cv.imshow("cam",frame)#show pictare in a window with title
-    if cv.waitKey(1) & 0xFF == ord('q'):#if press 'q' wile will break
-      break
-      
-      '''
