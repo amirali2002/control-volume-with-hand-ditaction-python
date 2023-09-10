@@ -10,6 +10,23 @@ control volume with hand ditaction in python
 <p>
 this mini project is for control system volum with hand ditaction in python and just using opencv and system librarys
 </p>
+<h2>
+libraris 
+</h2>
+<p>
+for run this project on your system you shold install opencv numpy cvzone and mediapipe
+<br>
+comend lines for install:<br>
+pip install opencv-python<br>
+pip install numpy <br>
+pip install mediapipe<br>
+</p>
+<h2 align="center">
+land marckes
+</h2>
+<img align='center' src="![Screenshot from 2023-09-11 00-40-44](https://github.com/amirali2002/control-volume-with-hand-ditaction-python/assets/85148377/d807d913-71df-4fc3-8d82-4d6b555c7b4c)">
+
+
 
 
 
