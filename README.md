@@ -14,12 +14,13 @@ this mini project is for control system volum with hand ditaction in python and 
 libraris 
 </h2>
 <p>
-for run this project on your system you shold install opencv numpy cvzone and mediapipe
+for run this project on your system you shold install opencv numpy pycaw cvzone and mediapipe
 <br>
 comend lines for install:<br>
 pip install opencv-python<br>
 pip install numpy <br>
 pip install mediapipe<br>
+pip install pycaw<br>
 </p>
 <h2 align="center">
 land marckes
