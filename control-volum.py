@@ -3,7 +3,7 @@ import time
 from subprocess import call
 from cvzone.HandTrackingModule import HandDetector as HD
 
-cap = cv.VideoCapture(0)#your cameras num
+cap = cv.VideoCapture(2)#your cameras num
 detector=HD(detectionCon=0.5,maxHands=1)#   if you want detact morthan one hand you shold edite maxhands num for example 2 or...
 
 def handDetaction(frame):
